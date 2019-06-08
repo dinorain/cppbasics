@@ -22,6 +22,7 @@ Hello! I'm excited that you visited my repository, thank you! You can master bas
     3. Pointers
     4. Dynamic memory
     5. Data structures and other data types
+- Extra: namespaces
   
 <h2> Announcements </h2>
   
