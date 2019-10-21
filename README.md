@@ -25,12 +25,6 @@ Hello! I'm excited that you visited my repository, thank you! You can master bas
 - Extra: namespaces
   
 <h2> Announcements </h2>
-  
-<h2> Contribute </h2>
- 
-Follow the [contribution guide](https://github.com/CC-MNNIT/2018-19-Classes/blob/master/.github/CONTRIBUTING.md). Add the class folder link in README.md
-
-<h2> Contributors </h2>
 
 <h2> Contact </h2>
   
