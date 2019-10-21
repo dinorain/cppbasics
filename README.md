@@ -2,7 +2,7 @@
 <h1> Introduction to C++. </h1>
 
 Hello! I'm excited that you visited my repository, thank you! You can master basic C++ programming here :).
-<br>Special thanks to [www.cplusplus.com](http://www.cplusplus.com) as my major resource.
+<br>Special thanks to [www.cplusplus.com](http://www.cplusplus.com) as my major reference.
 
 <h2> What You Can Get </h2>
 
